@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.1.
 
+## Rodando o backend Fake
+para instalar o backend precisa rodar o json-server usando: npm install -g json-server
+Uma vez que foi feito a instalação conseguimos rodar o backend fake utilizando: json-server --watch produtos.json
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
@@ -28,6 +32,3 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 
 
-## Rodando o backend Fake
-para instalar o backend precisa rodar o json-server usando: npm install -g json-server
-Uma vez que foi feito a instalação conseguimos rodar o backend fake utilizando: json-server --watch produtos.json
