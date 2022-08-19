@@ -25,3 +25,9 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+
+## Rodando o backend Fake
+para instalar o backend precisa rodar o json-server usando: npm install -g json-server
+Uma vez que foi feito a instalação conseguimos rodar o backend fake utilizando: json-server --watch produtos.json
